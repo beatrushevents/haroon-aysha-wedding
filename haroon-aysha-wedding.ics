@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Haroon and Aysha//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:haroon-aysha-20260820@beatrushevents.github.io
+DTSTAMP:20260815T150000Z
+DTSTART;TZID=Europe/London:20260820T090000
+DTEND;TZID=Europe/London:20260820T100000
+SUMMARY:Haroon & Aysha Wedding
+DESCRIPTION:Wedding of Haroon and Aysha.
+LOCATION:Barking and Dagenham Register Office\, Woodlands House\, Rainham Road North\, Dagenham RM10 7ER
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
